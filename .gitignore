@@ -77,7 +77,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.sqlite3
 
 # IPython
 profile_default/
